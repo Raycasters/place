@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/synagogue_interior.unity
+  isLoaded: 1
+  isActive: 1
